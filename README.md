@@ -18,18 +18,14 @@ The tool features a modern dark UI, progress tracking, file management, and is c
 ![](screenshots/main-ui.png)
 
 
-### Loading Networks
-![](screenshots/loading.png)
+![](screenshots/Network.ico)
 
-
-### File Menu
-![](screenshots/file-menu.png)
 
 ## Requirements
 - Windows 10 / 11
 - PowerShell 5.1+
-- Administrator privileges (required to read Wi-Fi keys)
+- Administrator
 
 ## Usage
-### Option 1: Run the Executable
-Download the compiled executable from the **releases** folder:
+### Run the Executable
+Download exe from the **releases** folder: WNPS.exe

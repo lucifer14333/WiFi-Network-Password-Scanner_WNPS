@@ -29,3 +29,8 @@ The tool features a modern dark UI, progress tracking, file management, and is c
 ## Usage
 ### Run the Executable
 Download exe from the **releases** folder: WNPS.exe
+
+## License
+
+MIT License – see the [LICENSE](LICENSE) file.
+

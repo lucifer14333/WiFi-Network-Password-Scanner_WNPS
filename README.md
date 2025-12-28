@@ -15,15 +15,15 @@ The tool features a modern dark UI, progress tracking, file management, and is c
 
 ## Screenshots
 ### Main Interface
-![Main UI](screenshots/main-ui.png)
+![](screenshots/main-ui.png)
 
 
 ### Loading Networks
-![Loading](screenshots/loading.png)
+![](screenshots/loading.png)
 
 
 ### File Menu
-![File Menu](screenshots/file-menu.png)
+![](screenshots/file-menu.png)
 
 ## Requirements
 - Windows 10 / 11
